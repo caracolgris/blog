@@ -1,0 +1,58 @@
+body {
+    background-color: #392f2f;
+}
+
+
+#zona-encabezado {
+    width: 85%;
+    color: #392f2f;
+    background-color: #59a985;
+}
+
+#zona-imagenes {
+    width: 85%;
+    background-color: #59a985;
+    text-align: center;
+}
+
+#zona-cuerpo {
+    width: 85%;
+    color: #e6d3a7;
+    background-color: #3a7563;
+}
+
+#zona-final {
+    width: 85%;
+    color:#392f2f;
+    background-color:#e6d3a7;
+    font-size: 12pt;
+}
+
+h1 {
+    font-family: "garamond";
+    font-size: 32pt;
+    text-align: center;
+}
+
+.texto-encabezado {
+    font-family: "cambria";
+    font-size: 13pt;
+    color:#392f2f;
+}
+
+.texto-cuerpo {
+    font-family:"cambria";
+    font-size: 13pt;
+    color:#e6d3a7;
+}
+
+.texto-final {
+    font-family:"cambria";
+    font-size: 12pt;
+    color:#392f2f;
+}
+
+img {
+    width: 30%;
+    }
+
