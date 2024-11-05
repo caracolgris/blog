@@ -1,55 +1,104 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #d5eeff;
-    background-color: #005689;
-}
-
-h1 {
-    font-size: 2.5em;
+    color: #3b0b1e;
+    background-color: #3b0b1e;
 }
 
 #contenedor {
-    width: 80%;
-    border: 2px solid #d5eeff;
+    width: 90%;
+    border: 2px solid #38502d;
     padding: 20px;
     margin-top: 10px;
-    background-color: #007cb9;
+    background-color: #6e8856;
+    height: 350px;   
+}
+
+#contenedor-articulo {
+    width: 90%;
+    border: 2px solid #38502d;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: #6e8856;   
 }
 
 #menu {
-    color: #005689;
-    background-color: #ff895d;
+    color: #8e9c57;
+    background-color: #1a2C1d;
     padding: 10px;
-    border: 1px solid #d5eeff;
+    border: 1px solid #38502d;
 }
 
 #menu a,
 #menu a:visited {
-    color: #005689;
+    color: #6e8856;
     text-decoration: none;
     padding: 5px;
 }
 
 #menu a:hover {
-    color: white;
-    background-color: #007cb9;
+    color: #38502d;
+    background-color: #8e9c57;
     padding: 5px;
 }
 
-#contenido {
-    height: 300px;
+h1 {
+    font-size: 2.5em;
+    font-family: "garamond";
+    text-align: center;
 }
 
-img {
+#introducción p {
+    color: #1a2C1d;
+    padding:10px;
+}
+
+#texto-contacto {
+    color: #1a2C1d;
+}
+
+#texto-contacto a,
+#texto-contacto a:visited {
+    color: #3b0b1e;
+    text-decoration: underline;
+    padding: 5px;
+
+}
+
+#texto-index {
+    color: #1a2C1d;
+}
+
+#img-articulo img{
+    width: 30.2%;
+    background-color: #8e9c57;
+    padding: 10px;
+    text-align: center;
+}
+
+#img-individual img{
     height: 200px;
-    border: 1px solid #d5eeff;
+    border: 1px solid #8e9c57;
     float: right;
+    background-color: #8e9c57;
+    padding: 10px;
+}
+.texto-desarrollo {
+    color: #8e9c57;
+    background-color: #38502d;
+    padding: 10px;
 }
 
 #final {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 0.75em;
-    color: #005689;
-    background-color: #d5eeff;
-    padding: 10px;
+    font-size: 0.9em;
+    color: #3b0b1e;
+    width: 85%;
+    background-color: #8e9c57;
+    padding: 5px;
+}
+
+#final a,
+#final a:visited {
+    color: #38502d;
+    text-decoration: underline;
+    padding: 5px;
 }
