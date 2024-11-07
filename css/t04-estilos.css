@@ -1,30 +1,28 @@
 body {
-    background-color: #392f2f;
+    background-color: #3b0b1e;
 }
-
 
 #zona-encabezado {
     width: 85%;
-    color: #392f2f;
-    background-color: #59a985;
+    background-color:  #6e8856;
 }
 
 #zona-imagenes {
     width: 85%;
-    background-color: #59a985;
+    background-color: #38502d;
     text-align: center;
 }
 
 #zona-cuerpo {
     width: 85%;
-    color: #e6d3a7;
-    background-color: #3a7563;
+    color: #8e9c57;
+    background-color: #38502d;
 }
 
 #zona-final {
     width: 85%;
-    color:#392f2f;
-    background-color:#e6d3a7;
+    color:#3B0B1E;
+    background-color:#8e9c57;
     font-size: 12pt;
 }
 
@@ -37,19 +35,19 @@ h1 {
 .texto-encabezado {
     font-family: "cambria";
     font-size: 13pt;
-    color:#392f2f;
+    color: #38502d;
 }
 
 .texto-cuerpo {
     font-family:"cambria";
     font-size: 13pt;
-    color:#e6d3a7;
+    color:#8e9c57;
 }
 
 .texto-final {
     font-family:"cambria";
     font-size: 12pt;
-    color:#392f2f;
+    color: #3B0B1E;
 }
 
 img {

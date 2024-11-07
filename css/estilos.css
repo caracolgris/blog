@@ -1,6 +1,8 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #3b0b1e;
+    background-color: #3b0b1e;
+}
+
+nav.navbar-color{
     background-color: #3b0b1e;
 }
 
@@ -41,10 +43,11 @@ body {
     padding: 5px;
 }
 
-h1 {
+#contenido h1 {
     font-size: 2.5em;
     font-family: "garamond";
     text-align: center;
+    color: #3b0b1e;
 }
 
 #introducción p {
@@ -61,7 +64,6 @@ h1 {
     color: #3b0b1e;
     text-decoration: underline;
     padding: 5px;
-
 }
 
 #texto-index {
